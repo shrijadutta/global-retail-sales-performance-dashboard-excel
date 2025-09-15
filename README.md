@@ -51,7 +51,7 @@ Overall, the chart illustrates sales volatility, category-level impacts, and sea
 The analysis indicates that individuals aged **21–25** contributed the highest revenue, followed closely by those in the **31–35** and **26–30** age groups.
 
 ### 8. Customer Rating Analysis
-Over **60%** of customers rated the products **4 or 5 stars**, indicating a generally positive customer experience.  
+Nearly **60%** of customers rated the products **4 or 5 stars**, indicating a generally positive customer experience.  
 The **average rating** across all reviews was **3.5 stars**.
 
 ---
@@ -62,7 +62,7 @@ The **average rating** across all reviews was **3.5 stars**.
 - **Clothing** was the most profitable product category.  
 - **Sydney** led all cities in revenue generation.  
 - The **21–25 age group** was the most valuable customer segment.  
-- Overall customer satisfaction was **moderate to high**, based on a 3.5-star average rating and over 60% of 4–5 star reviews.
+- Overall customer satisfaction was **moderate to high**, based on a 3.5-star average rating and nearly 60% of 4–5 star reviews.
 
 ---
 
